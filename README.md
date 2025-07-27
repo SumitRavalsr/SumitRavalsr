@@ -8,7 +8,8 @@
 
 - 🎓 **Final Year Computer Science Engineering Student** at MS University, Baroda
 - 🏆 **SAP Innovation Marathon Finalist** with Ai-PrepMaster
-- 🤖 **AI/ML Enthusiast** and **Full Stack Developer**
+- 🤖 **AI/ML Enthusiast**
+- 🌐 **Web Developer** – Proficient in HTML, CSS, JavaScript, React, and Node.js
 - 📊 **Coordinator at Neuralize** - Empowering students with Python and AI/ML skills
 - 🎯 **190+ Problems Solved** on LeetCode
 - 📫 **Reach me at:** sumitraval120@gmail.com
